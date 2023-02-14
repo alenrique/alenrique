@@ -5,9 +5,9 @@
 - 🔭 Trabalho com Full Stack
 - 🌱 Estudando Banco de Dados
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alenrique&show_icons=true&theme=react)](https://github.com/alenrique/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alenrique&show_icons=true&theme=react)](https://github.com/alenrique)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenrique&layout=compact&theme=react)](https://github.com/alenrique/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alenrique&layout=compact&theme=react)](https://github.com/alenrique)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
