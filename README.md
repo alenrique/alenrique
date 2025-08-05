@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho com Full Stack
-- 🌱 Estudando Banco de Dados
+- 🌱 Estudando Docker
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alenrique&show_icons=true&theme=react)](https://github.com/alenrique)
 
